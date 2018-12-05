@@ -1,0 +1,9 @@
+rainbow
+
+purple
+blue
+sky
+green
+yellow
+orange
+red
